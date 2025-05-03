@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Koshary Abou Tarek",
+    "type": "restaurant",
+    "description": "Famous for traditional Egyptian koshary in downtown Cairo.",
+    "address": "16 Champollion St, Downtown, Cairo",
+    "phone": "+20 2 25775935",
+    "location": { "latitude": 30.0478, "longitude": 31.2386 },
+    "products": [
+      { "name": "Small Koshary", "price": 25 },
+      { "name": "Large Koshary", "price": 45 },
+      { "name": "Rice Pudding", "price": 15 }
+    ]
+  },
+  {
+    "name": "Sobhy Kaber",
+    "type": "restaurant",
+    "description": "Popular for authentic Egyptian grills and molokhia.",
+    "address": "79 Al Bahr St, Shubra, Cairo",
+    "phone": "+20 100 602 3232",
+    "location": { "latitude": 30.08, "longitude": 31.23 },
+    "products": [
+      { "name": "Molokhia", "price": 40 },
+      { "name": "Grilled Kofta", "price": 90 },
+      { "name": "Stuffed Pigeon", "price": 120 }
+    ]
+  },
+  {
+    "name": "Zooba - Zamalek",
+    "type": "restaurant",
+    "description": "Trendy Egyptian street food with modern twists.",
+    "address": "26th of July St, Zamalek, Cairo",
+    "phone": "+20 2 27357690",
+    "location": { "latitude": 30.065, "longitude": 31.215 },
+    "products": [
+      { "name": "Taameya Sandwich", "price": 35 },
+      { "name": "Hawawshi", "price": 60 },
+      { "name": "Beetroot Hummus", "price": 45 }
+    ]
+  },
+  {
+    "name": "Tabali Bistro",
+    "type": "restaurant",
+    "description": "Modern Egyptian bistro with vibrant decor.",
+    "address": "9A Taha Hussein St, Zamalek, Cairo",
+    "phone": "+20 2 27368010",
+    "location": { "latitude": 30.0635, "longitude": 31.2151 },
+    "products": [
+      { "name": "Foul Sandwich", "price": 25 },
+      { "name": "Falafel Plate", "price": 35 },
+      { "name": "Eggs with Basturma", "price": 55 }
+    ]
+  },
+  {
+    "name": "Baladina",
+    "type": "restaurant",
+    "description": "Family-style Egyptian food in a traditional setting.",
+    "address": "Cairo Festival City Mall, New Cairo",
+    "phone": "+20 2 26168100",
+    "location": { "latitude": 30.0321, "longitude": 31.2096 },
+    "products": [
+      { "name": "Roz Meammar", "price": 50 },
+      { "name": "Fattah with Meat", "price": 110 },
+      { "name": "Mixed Grill", "price": 140 }
+    ]
+  },
+  {
+    "name": "El Dahan",
+    "type": "restaurant",
+    "description": "Classic Egyptian grilled meats and mezzes.",
+    "address": "9 Ibrahim Naguib, Garden City, Cairo",
+    "phone": "+20 2 27921207",
+    "location": { "latitude": 30.0567, "longitude": 31.2765 },
+    "products": [
+      { "name": "Grilled Chicken", "price": 90 },
+      { "name": "Mombar", "price": 70 },
+      { "name": "Shish Tawook", "price": 85 }
+    ]
+  },
+  {
+    "name": "Abou El Sid",
+    "type": "restaurant",
+    "description": "Upscale traditional Egyptian cuisine with vintage decor.",
+    "address": "157 26th of July Corridor, Zamalek, Cairo",
+    "phone": "+20 2 27359640",
+    "location": { "latitude": 30.0562, "longitude": 31.2055 },
+    "products": [
+      { "name": "Kaware Soup", "price": 80 },
+      { "name": "Stuffed Vine Leaves", "price": 60 },
+      { "name": "Tagine with Veal", "price": 150 }
+    ]
+  },
+  {
+    "name": "Kazouza",
+    "type": "restaurant",
+    "description": "Cairo street-style cuisine and juices with retro theme.",
+    "address": "5 Sayed Zakaria Khalil St, Heliopolis, Cairo",
+    "phone": "+20 100 006 1006",
+    "location": { "latitude": 30.057, "longitude": 31.216 },
+    "products": [
+      { "name": "Sogo2 Sandwich", "price": 35 },
+      { "name": "Kofta Meal", "price": 65 },
+      { "name": "Sugarcane Juice", "price": 20 }
+    ]
+  },
+  {
+    "name": "Hamam Mahshi Restaurant",
+    "type": "restaurant",
+    "description": "Specializes in traditional stuffed pigeon dishes.",
+    "address": "Ain Shams, Cairo",
+    "phone": "+20 2 24954552",
+    "location": { "latitude": 30.05, "longitude": 31.24 },
+    "products": [
+      { "name": "Stuffed Pigeon", "price": 130 },
+      { "name": "Rice Soup", "price": 20 },
+      { "name": "Fattah", "price": 95 }
+    ]
+  },
+  {
+    "name": "El Shabrawy",
+    "type": "restaurant",
+    "description": "Fast food Egyptian chain with a wide variety of meals.",
+    "address": "El-Nozha Street, Heliopolis, Cairo",
+    "phone": "+20 2 24189939",
+    "location": { "latitude": 30.056, "longitude": 31.223 },
+    "products": [
+      { "name": "Chicken Pane", "price": 55 },
+      { "name": "Shawarma Sandwich", "price": 40 },
+      { "name": "French Fries", "price": 15 }
+    ]
+  },
+  {
+    "name": "El Fishawy Café",
+    "type": "cafe",
+    "description": "Historic café in Khan El Khalili serving tea and shisha.",
+    "address": "Khan el-Khalili, Islamic Cairo",
+    "phone": "+20 2 25906755",
+    "location": { "latitude": 30.0471, "longitude": 31.2625 },
+    "products": [
+      { "name": "Mint Tea", "price": 15 },
+      { "name": "Turkish Coffee", "price": 20 },
+      { "name": "Shisha", "price": 35 }
+    ]
+  },
+  {
+    "name": "Cake Café",
+    "type": "cafe",
+    "description": "Charming dessert café in Zamalek with outdoor seating.",
+    "address": "12 Brazil St, Zamalek, Cairo",
+    "phone": "+20 2 27359060",
+    "location": { "latitude": 30.0638, "longitude": 31.2153 },
+    "products": [
+      { "name": "Red Velvet Cake", "price": 50 },
+      { "name": "Cappuccino", "price": 35 },
+      { "name": "Lemon Bar", "price": 25 }
+    ]
+  },
+  {
+    "name": "Qahwa",
+    "type": "cafe",
+    "description": "Stylish café in New Cairo offering breakfast and desserts.",
+    "address": "Concord Plaza Mall, New Cairo",
+    "phone": "+20 100 009 6665",
+    "location": { "latitude": 30.03, "longitude": 31.47 },
+    "products": [
+      { "name": "Espresso", "price": 30 },
+      { "name": "Cheesecake", "price": 55 },
+      { "name": "Fresh Orange Juice", "price": 40 }
+    ]
+  },
+  {
+    "name": "Beano’s Café",
+    "type": "cafe",
+    "description": "Modern café chain offering premium coffee and snacks.",
+    "address": "Talaat Harb St, Downtown Cairo",
+    "phone": "+20 2 25746864",
+    "location": { "latitude": 30.0444, "longitude": 31.2357 },
+    "products": [
+      { "name": "Mocha", "price": 40 },
+      { "name": "Croissant", "price": 25 },
+      { "name": "Iced Latte", "price": 45 }
+    ]
+  },
+  {
+    "name": "Espresso Lab",
+    "type": "cafe",
+    "description": "Hip coffee spot with handcrafted espresso and brews.",
+    "address": "Mall of Egypt, 6th of October",
+    "phone": "+20 120 060 0060",
+    "location": { "latitude": 30.0465, "longitude": 31.241 },
+    "products": [
+      { "name": "Flat White", "price": 42 },
+      { "name": "Chocolate Cookie", "price": 20 },
+      { "name": "Cold Brew", "price": 38 }
+    ]
+  },
+  {
+    "name": "Nino’s Café",
+    "type": "cafe",
+    "description": "Relaxed café with great WiFi and brunch menu.",
+    "address": "El Gezirah Plaza, Sheikh Zayed",
+    "phone": "+20 122 123 4567",
+    "location": { "latitude": 30.058, "longitude": 31.208 },
+    "products": [
+      { "name": "Omelette", "price": 45 },
+      { "name": "Latte", "price": 35 },
+      { "name": "Brownie", "price": 30 }
+    ]
+  },
+  {
+    "name": "Holm Café",
+    "type": "cafe",
+    "description": "Cozy book café perfect for reading and specialty drinks.",
+    "address": "6 Syria St, Mohandessin, Cairo",
+    "phone": "+20 2 33023060",
+    "location": { "latitude": 30.0522, "longitude": 31.2244 },
+    "products": [
+      { "name": "Matcha Latte", "price": 45 },
+      { "name": "Banana Bread", "price": 35 },
+      { "name": "Americano", "price": 30 }
+    ]
+  },
+  {
+    "name": "Cilantro",
+    "type": "cafe",
+    "description": "Popular café chain with local and international snacks.",
+    "address": "Multiple locations across Cairo",
+    "phone": "+20 2 27358339",
+    "location": { "latitude": 30.051, "longitude": 31.22 },
+    "products": [
+      { "name": "Iced Coffee", "price": 40 },
+      { "name": "Chicken Wrap", "price": 50 },
+      { "name": "Chocolate Muffin", "price": 30 }
+    ]
+  },
+  {
+    "name": "Paul Café",
+    "type": "cafe",
+    "description": "French bakery and café with a full brunch menu.",
+    "address": "Point 90 Mall, New Cairo",
+    "phone": "+20 2 25362090",
+    "location": { "latitude": 30.0302, "longitude": 31.4701 },
+    "products": [
+      { "name": "Quiche Lorraine", "price": 80 },
+      { "name": "Latte Macchiato", "price": 50 },
+      { "name": "Macaron Box", "price": 75 }
+    ]
+  },
+  {
+    "name": "TBS (The Bakery Shop)",
+    "type": "cafe",
+    "description": "Egyptian bakery chain famous for fresh baked goods.",
+    "address": "6th October City, Cairo",
+    "phone": "+20 2 38240588",
+    "location": { "latitude": 30.046, "longitude": 31.219 },
+    "products": [
+      { "name": "Mini Sandwich", "price": 40 },
+      { "name": "Donut", "price": 20 },
+      { "name": "Hot Chocolate", "price": 35 }
+    ]
+  }
+]
