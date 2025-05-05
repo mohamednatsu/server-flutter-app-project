@@ -8,6 +8,3 @@ node_modules/
 /prisma/migrations
 !prisma/migrations/migration_lock.toml  # Keep the lock file
 /prisma/*.db  # Ignore local SQLite files if any
-
-# Vercel specific
-.vercel/
