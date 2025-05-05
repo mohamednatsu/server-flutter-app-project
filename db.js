@@ -1,15 +1,16 @@
-const {PrismaClient} = require('@prisma/client');
-const prisma = new PrismaClient();
-module.exports = prisma;
+const { PrismaClient } = require('@prisma/client');
 
-const {Pool} = require('pg');
-require('dotenv').config();
-
-const pool = new Pool({
-       connectionString: process.env.DATABASE_URL,
+const prisma = new PrismaClient({
+       datasources: {
+              db: {
+                     url: process.env.DATABASE_URL,
+              },
+       },
 });
 
-module.exports = {
-       query: (text, params) => pool.query(text, params),
-}
+// Handle clean shutdown
+process.on('beforeExit', async () => {
+       await prisma.$disconnect();
+});
 
+module.exports = prisma;
