@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "buildCommand": "npm run vercel-build",
+  "buildCommand": "npm run build",
   "installCommand": "npm install",
   "env": {
     "DATABASE_URL": "postgresql://places_owner:npg_0ZybT2XvqVpm@ep-cool-block-a46tt9gb-pooler.us-east-1.aws.neon.tech/places_db?sslmode=require",
