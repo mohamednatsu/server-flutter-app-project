@@ -35,7 +35,9 @@ router.get("/:product", async (req, res) => {
                                    place: {
                                           name: place.name,
                                           type: place.type,
-                                          address: place.address
+                                          address: place.address,
+                                          longitude: place.location.longitude,
+                                          latitude: place.location.latitude,
                                    },
                                    products: matchingProducts
                             });
